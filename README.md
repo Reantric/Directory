@@ -1,2 +1,3 @@
 # Directory
-Search up name age or address.
+Search up a name, age, or address.
+Use a mix to further narrow down results.

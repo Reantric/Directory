@@ -1,3 +1,5 @@
+#LANG: PYTHON 3.6+
+
 from itertools import zip_longest
 from collections import Counter
 from collections import defaultdict
